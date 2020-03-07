@@ -1,2 +1,2 @@
 # rock-paper-scissor
-javascript code for rock paper scissor game
+javascript code for building rock paper scissor game
